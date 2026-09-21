@@ -1,0 +1,18 @@
+[
+  {
+    "path": "src/rpg/ComputerPlayer.java",
+    "recovered_source_sha256": "1c35cbe500a806bc955a5bcdc7032e72e9097497ce69c8e9937222ad5223b91c"
+  },
+  {
+    "path": "src/rpg/GameControl.java",
+    "recovered_source_sha256": "870cc4667862562664f97a091387a40abbd134a43c9f2f9ff6b22c75eff2643e"
+  },
+  {
+    "path": "src/rpg/HumanPlayer.java",
+    "recovered_source_sha256": "441c4e037278dfb29e8a9d57d85ecbba605e726c1e0ee845fca8621cd1c6bc7b"
+  },
+  {
+    "path": "src/rpg/Unit.java",
+    "recovered_source_sha256": "476f50e4e48edb8b8a6cc1b1be8998640fcf80e5d001058ba13ff71f12aec1cd"
+  }
+]
